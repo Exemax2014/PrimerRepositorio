@@ -1,7 +1,13 @@
 .contenedor {
-    display: flex;
+    display: flex; 
+    margin: 0;  
+}
+.titulo{
     background-color: aqua;
+    margin: 0; 
 }
 .texto{
-    background-color: azure;
+    background-color: rgb(229, 233, 94);
+    color: brown;
+    margin: 0; 
 }
