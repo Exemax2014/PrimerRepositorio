@@ -1,4 +1,7 @@
-h1 {
+.contenedor {
+    display: flex;
     background-color: aqua;
-    text-decoration: double;
+}
+.texto{
+    background-color: azure;
 }
